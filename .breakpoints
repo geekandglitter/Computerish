@@ -1,0 +1,70 @@
+{
+  "files": {
+    "README.md": [
+      {
+        "id": "02515cbc-9310-4210-b8c7-22c98ebb7cb2",
+        "line": 3,
+        "version": 1,
+        "index": 20
+      }
+    ],
+    "django_project/settings.py": [
+      {
+        "id": "21e57024-722f-46d6-9ee1-e61ef2df5fa3",
+        "line": 31,
+        "version": 140,
+        "index": 626
+      }
+    ],
+    "frontend/models.py": [
+      {
+        "id": "ab0d8dba-85fe-4d67-a4c0-fbac244e0083",
+        "line": 10,
+        "version": 1,
+        "index": 256
+      }
+    ],
+    "frontend/views.py": [
+      {
+        "id": "d81ee57d-93f0-483f-8063-2680549e3050",
+        "line": 1,
+        "version": 451,
+        "index": 0
+      },
+      {
+        "id": "fceeb003-a864-4c6d-82c1-1247a4e27aee",
+        "line": 1,
+        "version": 451,
+        "index": 0
+      }
+    ],
+    "templates/base.html": [
+      {
+        "id": "f068726e-73bb-4251-912a-6a8950cf0e03",
+        "line": 3,
+        "version": 67,
+        "index": 34
+      },
+      {
+        "id": "cbd80639-8869-40d9-9e90-669529a077bd",
+        "line": 6,
+        "version": 67,
+        "index": 55
+      },
+      {
+        "id": "223ab5a4-6774-4114-ab08-dfed14012e04",
+        "line": 7,
+        "version": 67,
+        "index": 66
+      }
+    ],
+    "templates/frontend/findallposts.html": [
+      {
+        "id": "e9b25f1e-2a4d-4b58-b98b-895b45b3b7a5",
+        "line": 10,
+        "version": 1,
+        "index": 219
+      }
+    ]
+  }
+}
